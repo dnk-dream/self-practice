@@ -1,2 +1,3 @@
 Original text
 text from alice branch
+Bob text
